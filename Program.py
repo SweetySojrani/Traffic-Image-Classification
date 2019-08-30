@@ -486,7 +486,7 @@ pred = knn.predict(datadf_test)
 
 
 print("Write the output file")
-    with open('255_pro2_output_4thApr.txt', 'w') as f:
+    with open('Output.txt', 'w') as f:
         for item in pred:
             f.write("%s\n" % item)
 
