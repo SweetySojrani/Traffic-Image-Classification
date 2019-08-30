@@ -12,13 +12,13 @@ Traffic Image Classification using Machine Learning
 1. I implemented Hog Features and Hist features and compared f1 score and computation time for both. I finally chose Hist features after comparing the computation time and f1 score.
 2. For Hog features, the original image(img 1) -> reduced size (img 2) -> gray image(img 3) -> edged image(img 4) -> feature vector. The feature vector was then used by dimensionality reduction as input for feature selection.
 
-https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Original_image.PNG
-https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Edged_image.PNG
-https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/gray_image.PNG
+![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Original_image.PNG)
+![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Edged_image.PNG)
+![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/gray_image.PNG)
 
 3. For Hist features: Used openCV to extract original image -> Hist Features(Img 5) -> Hist flattened normalized features. The normalized features were then used as input by PCA.
 
-https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Hist_features.PNG
+![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Hist_features.PNG)
 
 
 ## Dimensionality reduction technique:
