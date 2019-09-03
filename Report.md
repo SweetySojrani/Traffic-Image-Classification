@@ -14,7 +14,7 @@ Traffic Image Classification using Machine Learning
 
 ![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Img1.PNG)
 ![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Img2.PNG)
-![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Img 3.PNG)
+![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Img3.PNG)
 ![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Img4.PNG)
 ![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Img5.PNG)
 
