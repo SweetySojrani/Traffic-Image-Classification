@@ -16,7 +16,6 @@ Traffic Image Classification using Machine Learning
 ![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Img2.PNG)
 ![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Img3.PNG)
 ![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Img4.PNG)
-![alt text](https://github.com/SweetySojrani/Traffic-Image-Classification/blob/master/Images/Img5.PNG)
 
 3. For Hist features: Used openCV to extract original image -> Hist Features(Img 5) -> Hist flattened normalized features. The normalized features were then used as input by PCA.
 
